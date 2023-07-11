@@ -1,0 +1,42 @@
+http1.1:
+      - http1.1 is the most widely used version of http.
+      - It has some limitations that can slow down page load times.
+      - It can only send one request at a time per TCP connection
+      - It was released in 1997 and has been the standard for over 20 years
+      - It works on textual format.
+      - It compresses data by itself
+
+http2:
+      - HTTP 2 is the newer version of HTTP.
+      - It was released in 2015 and is designed to be more efficient and faster than HTTP 1.1.
+      - HTTP 2 allows multiple requests and responses to be sent over a single connection.
+      - If a connection is interrupted, HTTP 2 can resume the stream from where it left off.
+      - This can help to prevent data loss and ensure that the user experience is not interrupted.
+
+CONCLUSION: HTTP 2 is a significant improvement over HTTP 1.1. It is more efficient, faster, and more reliable. If you are looking to improve the performance of your website, you should consider upgrading to HTTP 2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Objects and Internal Representation in JavaScript:
+
+
+In the world of JavaScript, objects play a fundamental role in representing and organizing data. They allow developers to model real-world entities, store related information, and perform various operations on the data.
+
+Objects are one of the most important data types in JavaScript. They are used to represent everything from simple data structures to complex applications.
+
+An object in JavaScript is a collection of named values having state and behavior (properties and methods). For example, a car object might have properties like make, model, year, and color, and methods like start, stop, and accelerate.
+
+Objects are created using the new keyword. For example, the following code creates a car object:
+
+       const car = new Object();
+       car.model = "Civic";
+       car.make = "Honda";
+       car.year = 2023;
+
+CONCLUSION: Objects are a powerful data type in JavaScript. They can be used to represent everything from simple data structures to complex applications. By understanding the internal representation of objects in JavaScript, you can write more efficient and effective JavaScript code.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
