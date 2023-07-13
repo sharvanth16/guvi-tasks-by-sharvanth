@@ -1,0 +1,17 @@
+
+The Difference Between Document object and Window Objects in JavaScript:
+
+
+WINDOW OBJECT :
+
+- The Window interface represents a window containing a DOM document
+- It represents a browser window or frame that displays the contents of the webpage.  
+- The window object is the topmost object of the DOM hierarchy. 
+- It is the very first object that is loaded in the browser.
+
+DOCUMENT OBJECT:
+
+- It represents any HTML document or web page that is loaded in the browser.
+- All the tags, elements with attributes in HTML are part of the document.
+- By accessing the document object, we can can access the element in the HTML page.
+- It is the object of window property.
